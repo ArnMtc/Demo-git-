@@ -1,4 +1,5 @@
 1 er fichier txt de l'activité sur Github
 
 J'apporte une petite modification et espère que tout cela va fonctionner
-:
+Je viens de voir que j'ai fait une erreur sur le titre du commit de ce fichier.
+
